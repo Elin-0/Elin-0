@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Elin-0
+- 👀 I’m interested in learning java scripting & python
+- 🌱 I’m currently learning java scripting
